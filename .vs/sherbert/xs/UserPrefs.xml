@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{5CB08988-B4ED-6B7F-EACE-8812E7E18D1D}|">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="7bbb479d-3a4b-41d2-99e3-c5dcdc16b548" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Library/PackageCache/com.unity.ide.visualstudio@2.0.18/Editor/ProjectGeneration/ProjectGeneration.cs">
+    <Files>
+      <File FileName="Assets/Player.cs" />
+      <File FileName="Assets/CoinManager.cs" Line="27" Column="2" />
+      <File FileName="Assets/SpawnObject.cs" />
+      <File FileName="Library/PackageCache/com.unity.ide.visualstudio@2.0.18/Editor/ProjectGeneration/ProjectGeneration.cs" Line="906" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="sherbert" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="CoinManager.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
